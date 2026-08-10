@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "7W5H944UWM.com.paymob.PaymobSDKTest.PaymobSDKTest"
+        ],
+        "components": [
+          {
+            "/": "/payment/*"
+          }
+        ]
+      }
+    ]
+  }
+}
